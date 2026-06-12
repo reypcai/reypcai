@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 15-year-old cybersecurity enthusiast focused on ethical hacking, system security, and privacy-oriented technologies. I actively work on projects involving secure web development, backend systems, cloud infrastructure, and applied machine learning.
+I am a 16-year-old cybersecurity enthusiast focused on ethical hacking, system security, and privacy-oriented technologies. I actively work on projects involving secure web development, backend systems, cloud infrastructure, and applied machine learning.
 
 My tech stack includes Python, Django, JavaScript, cloud platforms, databases, and security tools. I am passionate about understanding how systems work at a deep level, identifying vulnerabilities, and building secure, scalable solutions.
 
